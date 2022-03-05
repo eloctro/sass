@@ -14,5 +14,7 @@
 
 5. Parent selector:
    - & use in nested selectors to refer to the outer selector.
-6. Partials & Imports
-   - _partial.scss + @import
+6. Partials & Imports:
+   - \_partial.scss + `@import`
+7. Mixins:
+   - `@mixin name(<arguments...>) { ... }`
