@@ -4,3 +4,5 @@
 `npm install -g sass`                      
 2. Compile SASS to CSS:  
 `sass source/stylesheets/index.scss build/stylesheets/index.css`
+3. Variables  
+`$proprty-name: value;`
