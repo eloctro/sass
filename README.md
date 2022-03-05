@@ -18,3 +18,6 @@
    - \_partial.scss + `@import`
 7. Mixins:
    - `@mixin name(<arguments...>) { ... }`
+   - `@include name();`
+8. Extend/Inheritance (placeholders):
+   - `@extend + %placeholder`
