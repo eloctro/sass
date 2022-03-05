@@ -21,3 +21,6 @@
    - `@include name();`
 8. Extend/Inheritance (placeholders):
    - `@extend + %placeholder`
+9. Comments
+   - `/**/` - will be included in the CSS.
+   - `//` - won't be included in the CSS.
