@@ -38,3 +38,5 @@
       property: funcName(value);
     }
     ```
+
+13. 7-1 Pattern
