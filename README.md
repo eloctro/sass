@@ -40,3 +40,7 @@
     ```
 
 13. 7-1 Pattern
+14. Links:
+    - https://sass-lang.com/documentation
+    - https://sass-guidelin.es/ru/
+    - https://www.sassmeister.com/
