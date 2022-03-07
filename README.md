@@ -21,6 +21,8 @@
    - `@include name();`
 8. Extend/Inheritance (placeholders):
    - `@extend + %placeholder`
-9. Comments
+9. Comments:
    - `/**/` - will be included in the CSS.
    - `//` - won't be included in the CSS.
+10. Color Functions:
+    - https://sass-lang.com/documentation/functions/color
