@@ -26,3 +26,15 @@
    - `//` - won't be included in the CSS.
 10. Color Functions:
     - https://sass-lang.com/documentation/functions/color
+11. @media
+12. Functions:
+
+    ```
+    @function funcName($value) {
+      @return $newValue
+    }
+
+    selector {
+      property: funcName(value);
+    }
+    ```
